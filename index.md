@@ -14,7 +14,7 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 ### A sampling of the work I have led
 
-<img align="right" src="/assets/img/icon.png" style="width: 10vw; min-width: 33px;" />
+<img align="right" src="/assets/img/sphinx_arch.jpg" style="width: 10vw; min-width: 33px;" />
 
 #### Sphinx: An Automated English Passage and Item Generation System
 
