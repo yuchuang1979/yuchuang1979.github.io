@@ -4,14 +4,6 @@ layout: default
 #subtitle: This is where I will tell my friends way too much about me
 ---
 
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
 
 #### About Me
 
@@ -22,4 +14,6 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 #### A sampling of the work I have led
 
-[![Proguard](/assets/img/icon.png)]{: .image-left } Your Text comes here, where I lead the team of automated content generation and spearhead R&D on the use of machine learning in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing
+<img align="right" src="/assets/img/icon.png"> 
+
+My name is Yuchi Huang. I work for [ACT](http://www.act.org), where I lead the team of automated content generation and spearhead R&D on the use of machine learning in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing.
