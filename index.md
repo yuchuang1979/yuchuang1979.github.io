@@ -14,8 +14,8 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 ### A sampling of the work I have led
 
+<img align="right" src="/assets/img/icon.png">
+
 #### An InterAutomated Passage Generation
 
-<img align="right" src="/assets/img/icon.png"> 
-
-*My name is Yuchi Huang*. I work for [ACT](http://www.act.org), where I lead the team of automated content generation and spearhead R&D on the use of machine learning in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing.
+**My name is Yuchi Huang**. I work for [ACT](http://www.act.org), where I lead the team of automated content generation and spearhead R&D on the use of machine learning in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing.
