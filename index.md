@@ -20,7 +20,7 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 Sphinx is a human-AI hybrid system for scalable production of reading comprehension passages in English from writers’ samples/prompts. To the best of our knowledge, Sphinx is the first natural language generation system designed to create reading passages and items in a computationally efficient manner and can be used in a plethora of learning and assessment contexts. In Sphinx, we integrate state-of-the-art NLP approaches with the reasoning ability of writers to interactively process text from a multiple of sources and produce industry-grade quality narratives and original content at the same time.  [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
 
-<img align="right" src="/assets/img/expression.jpg" style="width: 35vw; min-width: 33px;" />
+<img align="right" src="/assets/img/expression.jpg" style="width: 45vw; min-width: 33px;" />
 
 #### Generating Photorealistic Facial Expressions in Dyadic Interactions
 
