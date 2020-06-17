@@ -14,12 +14,8 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 ### A sampling of the work I have led
 
-#<img align="right" src="/assets/img/sphinx_arch.jpg" style="width: 35vw; min-width: 33px;" />
-
 #### Sphinx: An Automated Passage and Item Generation System [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
 
   
-
-#<img align="right" src="/assets/img/expression.jpg" style="width: 45vw; min-width: 33px;" />
 
 #### Generating Photorealistic Facial Expressions in Dyadic Interactions [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)[**[Code]**]()
