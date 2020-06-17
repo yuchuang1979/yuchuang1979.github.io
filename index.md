@@ -13,4 +13,33 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 #### A sampling of the work I have led
 
-![Branching](/assets/img/icon.png)
+# ![Branching](/assets/img/icon.png)
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table
