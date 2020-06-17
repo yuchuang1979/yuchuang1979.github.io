@@ -13,33 +13,7 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 #### A sampling of the work I have led
 
-# ![Branching](/assets/img/icon.png)
 
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
+<img style="float: left;" src="/assets/img/icon.png">
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table
+This is my first project. Prior to joining ACT, I was an NLP research scientist at [Educational Testing Service (ETS)](https://www.ets.org). From 2010 to 2015, I worked for [GE Research](https://www.ge.com/research/) and [NEC Labs](https://www.nec.com/en/global/rd/index.html) as a computer vision scientist. 
