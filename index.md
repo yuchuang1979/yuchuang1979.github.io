@@ -14,15 +14,12 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 ### A sampling of the work I have led
 
-<img align="right" src="/assets/img/sphinx_arch.jpg" style="width: 35vw; min-width: 33px;" />
+#<img align="right" src="/assets/img/sphinx_arch.jpg" style="width: 35vw; min-width: 33px;" />
 
-#### Sphinx: An Automated Passage and Item Generation System
+#### Sphinx: An Automated Passage and Item Generation System [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
 
-Sphinx is a human-AI hybrid system for scalable production of reading comprehension passages in English from writers’ samples/prompts. To the best of our knowledge, Sphinx is the first natural language generation system designed to create reading passages and items in a computationally efficient manner and can be used in a plethora of learning and assessment contexts. In Sphinx, we integrate state-of-the-art NLP approaches with the reasoning ability of writers to interactively process text from a multiple of sources and produce industry-grade quality narratives and original content at the same time.  [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
+  
 
-<img align="right" src="/assets/img/expression.jpg" style="width: 45vw; min-width: 33px;" />
+#<img align="right" src="/assets/img/expression.jpg" style="width: 45vw; min-width: 33px;" />
 
-#### Generating Photorealistic Facial Expressions in Dyadic Interactions
-
-We propose an approach for generating photorealistic facial expressions for virtual identities in dyadic interactions. To this end, we study human-human interactions to model one individual’s facial expressions in the reaction of the other. We introduce a two level optimization of generative adversarial networks, wherein the first stage generates one’s face shapes conditioned on facial action features derived from their dyadic interaction partner and the second stage synthesizes high quality face images from sketches. A ‘layer features’ L1 regularization is employed to enhance the generation
-quality and an identity-constraint is utilized to ensure appearance distinction between different identities. We demonstrate that our model is effective at generating visually compelling facial expressions. Moreover, we quantitatively showed that generated agent facial expressions reflect valid emotional reactions to behavior of the human partner.  [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)[**[Code]**]()
+#### Generating Photorealistic Facial Expressions in Dyadic Interactions [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)[**[Code]**]()
