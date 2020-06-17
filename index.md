@@ -5,7 +5,6 @@ layout: default
 ---
 
 #### About Me
-
 My name is Yuchi Huang. I work for [ACT](http://www.act.org), where I lead the team of automated content generation and spearhead research and development on the use of machine learning and AI in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing.
 
 
