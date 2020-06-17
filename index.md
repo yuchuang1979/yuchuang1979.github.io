@@ -16,6 +16,6 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 <img align="right" src="/assets/img/sphinx_arch.jpg" style="width: 35vw; min-width: 33px;" />
 
-#### Sphinx: An Automated English Passage and Item Generation System
+#### Sphinx: An Automated Passage and Item Generation System
 
 Sphinx is a human-AI hybrid system for scalable production of reading comprehension passages in English from writers’ samples/prompts to be used in in a variety of learning and assessment. To the best of our knowledge, Sphinx is the first natural language generation system designed to create reading passages and items in a computationally efficient manner and can be used in a plethora of learning and assessment contexts. [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
