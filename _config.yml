@@ -12,11 +12,11 @@ author: Yuchi Huang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://yuchuang1979.github.io"
-    - Learn markdown: "https://yuchuang1979.github.io"
-  Author's home: "https://yuchuang1979.github.io"
+  Articles: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "https://yuchuang1979.github.io"
+  #  - Learn markdown: "https://yuchuang1979.github.io"
+  Publications: "https://yuchuang1979.github.io"
 
 # --- Logo --- #
 
