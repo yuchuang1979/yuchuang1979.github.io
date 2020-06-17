@@ -9,6 +9,6 @@ layout: default
 My name is Yuchi Huang. I work for [ACT](http://www.act.org), where I lead the team of automated content generation and spearhead research and development on the use of machine learning and AI in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing.
 
 
-Prior to joining ACT, I was an NLP research scientist at Educational Testing Service. From 2010 to 2015, I worked for GE Global Research and NEC Labs as a computer vision scientist. I earned my PhD in computer science from Rutgers University.
+Prior to joining ACT, I was an NLP research scientist at [Educational Testing Service (ETS)](https://www.ets.org). From 2010 to 2015, I worked for [GE Research](https://www.ge.com/research/) and [NEC Labs](https://www.nec.com/en/global/rd/index.html) as a computer vision scientist. I earned my PhD in computer science from [Rutgers University](https://www.rutgers.edu).
 
 #### A sampling of the work I have led
