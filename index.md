@@ -16,6 +16,6 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 <img align="right" src="/assets/img/icon.png" style="width: 10vw; min-width: 33px;" />
 
-#### An InterAutomated Passage Generation
+#### Sphinx: An Automated English Passage and Item Generation System
 
-**My name is Yuchi Huang**. I work for [ACT](http://www.act.org), where I lead the team of automated content generation and spearhead R&D on the use of machine learning in various educational applications. My technical background is in natural language processing (NLP), computer vision and machine learning. My current areas of interest include automatic generation of multimodal educational resources, multimodal analytics for measurement of complex skills and competencies, and deep learning based knowledge tracing.
+Sphinx is a human-AI hybrid system for scalable production of reading comprehension passages in English from writers’ samples/prompts to be used in in a variety of learning and assessment. To the best of our knowledge, Sphinx is the first natural language generation system designed to create reading passages and items in a computationally efficient manner and can be used in a plethora of learning and assessment contexts. 
