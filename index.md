@@ -14,8 +14,8 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
 ### A sampling of the work I have led
 
-#### Sphinx: An Automated Passage and Item Generation System [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
+**Sphinx: An Automated Passage and Item Generation System** [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)
 
   
 
-#### Generating Photorealistic Facial Expressions in Dyadic Interactions [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)[**[Code]**]()
+**Generating Photorealistic Facial Expressions in Dyadic Interactions** [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)[**[Code]**]()
