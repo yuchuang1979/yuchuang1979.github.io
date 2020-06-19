@@ -18,4 +18,4 @@ Prior to joining ACT, I was an NLP research scientist at [Educational Testing Se
 
   
 
-**Generating Photorealistic Facial Expressions in Dyadic Interactions** [**[Paper]**](/assets/papers/LAK20.pdf)[**[Video Demo]**](https://www.youtube.com/watch?v=hTLzOsi_Vn8)[**[Code]**]()
+**Generating Photorealistic Facial Expressions in Dyadic Interactions** [**[Paper]**](/assets/papers/BMVC2018.pdf)[**[Code]**](https://github.com/yuchuang1979/Facial-Expressions-in-Dyadic-Interactions)
